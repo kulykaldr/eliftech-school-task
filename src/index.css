@@ -52,4 +52,9 @@ h6 {
 #root,
 #__next {
   isolation: isolate;
+  min-height: 100%;
+}
+
+.container {
+  min-height: 100%;
 }
